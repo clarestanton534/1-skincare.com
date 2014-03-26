@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Cosmetics & Skincare Coupons Blog]]></title>
+  <link href="http://www.1-skincare.com/atom.xml" rel="self"/>
+  <link href="http://www.1-skincare.com/"/>
+  <updated>2014-03-26T19:13:53+00:00</updated>
+  <id>http://www.1-skincare.com/</id>
+  <author>
+    <name><![CDATA[Clare Stanton]]></name>
+    
+  </author>
+
+  
+</feed>
